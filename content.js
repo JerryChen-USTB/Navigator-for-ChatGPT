@@ -13,7 +13,7 @@
         // DOM 选择器
         SELECTORS: {
             // 消息轮次容器
-            TURN: 'article[data-testid^="conversation-turn-"]',
+            TURN: '[data-testid^="conversation-turn-"]',
             // 用户消息
             USER_MESSAGE: '[data-message-author-role="user"]',
             // 助手消息

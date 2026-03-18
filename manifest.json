@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Navigator for ChatGPT - Sidebar Navigator & AI Summary",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "为 ChatGPT 打造的对话导航工具，创建对话侧边目录，一键快速跳转至任意问答，AI提炼对话摘要，助您在长对话中轻松定位",
     "permissions": [
         "storage"
